@@ -1,4 +1,4 @@
-### Hi there 👋
+### I use arch btw
 
 <!--
 **Ka4ok52/Ka4ok52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
